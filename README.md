@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # react-js-infoeste
 
 # Install
@@ -24,3 +25,7 @@ https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3695.8219620017308!2d-51.4
 ```bash
 https://sheetdb.io/api/v1/p33s9qi7h0f5q
 ```
+=======
+# ProjetoReact
+Projeto em React JS
+>>>>>>> 4b1e99c36f06de5e0e9f6cdd3d5c6c8a374a4ec8
